@@ -20,13 +20,14 @@ A Flutter-based Budget Tracker App designed to help users manage their finances 
   Supports Light and Dark themes, automatically adapting to the device's system theme.
 
 
-## Tech Stack
+## **Tech Stack**
 
-Flutter (Framework)
+- [Flutter](https://flutter.dev/) (Framework)
+  
+- [Sqflite](https://pub.dev/packages/sqflite) (Local Database)
+  
+- [Shared Preferences](https://pub.dev/packages/shared_preferences) (Persistent Login)  
 
-Sqflite (Local Database)
-
-Shared Preferences (Persistent Login)
 
 
 ## Installation
