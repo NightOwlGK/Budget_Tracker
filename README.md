@@ -71,18 +71,22 @@ Run the app:
 
 ## **Screenshots**
 
-### Row 1
-![Splash Screen](https://github.com/user-attachments/assets/cc1391ab-df61-41d2-819d-56ade2ea1bed)
-![Login Page](https://github.com/user-attachments/assets/f8cd54d0-bab3-4997-a401-f15d3cddf3ed)
-![Registration Page](https://github.com/user-attachments/assets/35eabd81-fcd0-4c5f-b719-56927e7cddb0)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cc1391ab-df61-41d2-819d-56ade2ea1bed" alt="Splash Screen" width="30%" />
+  <img src="https://github.com/user-attachments/assets/f8cd54d0-bab3-4997-a401-f15d3cddf3ed" alt="Login Page" width="30%" />
+  <img src="https://github.com/user-attachments/assets/35eabd81-fcd0-4c5f-b719-56927e7cddb0" alt="Registration Page" width="30%" />
+</div>
 
-### Row 2
-![Home Page](https://github.com/user-attachments/assets/eb32fd45-4317-4777-b609-364816b6acf9)
-![Add Account](https://github.com/user-attachments/assets/ded47236-0029-4caa-bb42-817cb9cbf3c6)
-![Transaction Page](https://github.com/user-attachments/assets/7c489934-9202-43ce-93f4-feb150a502bf)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/eb32fd45-4317-4777-b609-364816b6acf9" alt="Home Page" width="30%" />
+  <img src="https://github.com/user-attachments/assets/ded47236-0029-4caa-bb42-817cb9cbf3c6" alt="Add Account" width="30%" />
+  <img src="https://github.com/user-attachments/assets/7c489934-9202-43ce-93f4-feb150a502bf" alt="Transaction Page" width="30%" />
+</div>
 
-### Row 3
-![Add Transaction Amount](https://github.com/user-attachments/assets/6e5f6b4a-2048-4880-8ada-048fc070ac75)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6e5f6b4a-2048-4880-8ada-048fc070ac75" alt="Add Transaction Amount" width="30%" />
+</div>
+
 
 
 
