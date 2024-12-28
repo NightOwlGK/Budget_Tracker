@@ -66,18 +66,18 @@ Run the app:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d592ae94-4586-4d10-9f5d-8452b8666bca" alt="Splash Screen" width="250"/>
   <img src="https://github.com/user-attachments/assets/2151f7e6-38f3-41cb-a09b-b71cc4f461f9" alt="Login Screen" width="250"/>
-  <img src="https://github.com/user-attachments/assets/d098554b-ea45-46e6-a38f-2cf170bd41e5" alt="Home Screen" width="250"/>
+  <img src="https://github.com/user-attachments/assets/dc3a7d42-53a1-41b8-aa19-f1ed0ea993ee" alt="Registration Screen" width="250"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/dc3a7d42-53a1-41b8-aa19-f1ed0ea993ee" alt="Registration Screen" width="250"/>
-  <img src="https://github.com/user-attachments/assets/89c0355f-5a0a-4ec7-be15-36a54108bd1c" alt="Transaction Screen" width="250"/>
+  <img src="https://github.com/user-attachments/assets/d098554b-ea45-46e6-a38f-2cf170bd41e5" alt="Home Screen" width="250"/>
+  <img src="https://github.com/user-attachments/assets/159ce87d-cbe0-4a57-b34e-6d4165dba0d2" alt="Drawer" width="250"/>
   <img src="https://github.com/user-attachments/assets/0447b916-b493-4c36-ad52-191282cb0cf2" alt="Add Account Dialog Box" width="250"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/18ef91f0-0c2a-4c0b-a61f-a62b168fa30e" alt="Add Credit-Debit Amount Dialog" width="250"/>
   <img src="https://github.com/user-attachments/assets/9ccb358b-591b-4778-abd2-fb49ba8e512d" alt="Delete Account Dialog" width="250"/>
-  <img src="https://github.com/user-attachments/assets/159ce87d-cbe0-4a57-b34e-6d4165dba0d2" alt="Drawer" width="250"/>
+  <img src="https://github.com/user-attachments/assets/89c0355f-5a0a-4ec7-be15-36a54108bd1c" alt="Transaction Screen" width="250"/>
+  <img src="https://github.com/user-attachments/assets/18ef91f0-0c2a-4c0b-a61f-a62b168fa30e" alt="Add Credit-Debit Amount Dialog" width="250"/>
 </div>
 
