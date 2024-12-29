@@ -41,7 +41,7 @@ Clone the repository:
 Navigate to the project directory:
 
 ```bash
-  cd budget-tracker-app  
+  cd Budget_tracker  
 ```
 
 Install dependencies:
