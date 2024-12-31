@@ -55,6 +55,9 @@ Run the app:
 ```bash
   flutter run     
 ```
+
+<a href="https://github.com/NightOwlGK/Budget_Tracker/releases/download/untagged-a1c3c416bca367436234/app-release.apk><img src="https://github.com/NightOwlGK/Budget_Tracker/releases/download/untagged-a1c3c416bca367436234/app-release.apk" alt="Download App"/></a>
+
 ## Documentation
 
 [sqlite](https://docs.flutter.dev/cookbook/persistence/sqlite)
