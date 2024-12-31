@@ -58,7 +58,7 @@ Run the app:
 
 <div>
   <a href="https://github.com/NightOwlGK/Budget_Tracker/releases/download/untagged-a1c3c416bca367436234/app-release.apk">
-     <img width="200px" height="200px" src="https://github.com/user-attachments/assets/7020df3c-714d-4150-8569-199d49689889" alt="Download Apk File" />
+     <img width="200px" height="200px" src="https://github.com/user-attachments/assets/cb9e0475-0555-4af6-b46f-4964fd846d59" alt="Download Apk File" />
   </a>
 </div>
 
