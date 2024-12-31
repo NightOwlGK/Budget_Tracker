@@ -56,7 +56,11 @@ Run the app:
   flutter run     
 ```
 
-<a href="https://github.com/NightOwlGK/Budget_Tracker/releases/download/untagged-a1c3c416bca367436234/app-release.apk><img src="https://github.com/NightOwlGK/Budget_Tracker/releases/download/untagged-a1c3c416bca367436234/app-release.apk" alt="Download App"/></a>
+<div>
+  <a href="https://github.com/NightOwlGK/Budget_Tracker/releases/download/untagged-a1c3c416bca367436234/app-release.apk">
+    <img src="https://github.com/user-attachments/assets/7020df3c-714d-4150-8569-199d49689889" alt=""Download Apk File />
+  </a>
+</div>
 
 ## Documentation
 
